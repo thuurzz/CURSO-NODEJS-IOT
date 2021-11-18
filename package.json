@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "curso-nodejs-iot",
+  "description": "Repositório curso de Node JS da HCode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuurzz/CURSO-NODEJS-IOT.git"
+  },
+  "keywords": [
+    "modejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongobd",
+    "udp",
+    "crypto"
+  ],
+  "author": "Arthur Vinicius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thuurzz/CURSO-NODEJS-IOT/issues"
+  },
+  "homepage": "https://github.com/thuurzz/CURSO-NODEJS-IOT#readme"
+}
